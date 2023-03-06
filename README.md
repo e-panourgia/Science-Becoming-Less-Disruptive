@@ -6,7 +6,7 @@
 * The analysis will be done on Google Colab
 
 --- 
-## RUN / Install 
+## RUN && Install 
 * Open jupyter notebook named :: `NeuralNetworkk.ipynb` and run all cells. (For Feature Engineering and Non Neural Network Models)
 * Open jupyter notebook named :: `NeuralNetworkk.ipynb` and run all cells. (For Neural Network Model)
 
